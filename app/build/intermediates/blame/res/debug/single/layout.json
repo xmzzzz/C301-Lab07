@@ -1,0 +1,14 @@
+[
+    {
+        "merged": "D:\\java-8-oracle\\301Lab4-f17lab7\\301Lab4-f17lab7\\app\\build\\intermediates\\res\\merged\\debug\\layout\\list_item.xml",
+        "source": "D:\\java-8-oracle\\301Lab4-f17lab7\\301Lab4-f17lab7\\app\\src\\main\\res\\layout\\list_item.xml"
+    },
+    {
+        "merged": "D:\\java-8-oracle\\301Lab4-f17lab7\\301Lab4-f17lab7\\app\\build\\intermediates\\res\\merged\\debug\\layout\\main.xml",
+        "source": "D:\\java-8-oracle\\301Lab4-f17lab7\\301Lab4-f17lab7\\app\\src\\main\\res\\layout\\main.xml"
+    },
+    {
+        "merged": "D:\\java-8-oracle\\301Lab4-f17lab7\\301Lab4-f17lab7\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_edit_tweet.xml",
+        "source": "D:\\java-8-oracle\\301Lab4-f17lab7\\301Lab4-f17lab7\\app\\src\\main\\res\\layout\\activity_edit_tweet.xml"
+    }
+]
